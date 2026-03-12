@@ -198,4 +198,4 @@ Generated plots and tables are saved in the **outputs/** folder.
 
 **Gino Biasioli**
 
-Data Science Master's Student
+
