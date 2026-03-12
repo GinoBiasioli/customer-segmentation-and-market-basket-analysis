@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter / notebook leftovers
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Spyder
+.spyproject/
+.ropeproject/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local environment files
+.env
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
